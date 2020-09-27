@@ -11,7 +11,7 @@
 
 <a href="https://www.google.com"> KWSTAS28 </a>
 
-<img src="MARVEL.jpg" width="2000 width=""2000">
+![MARVEL](https://user-images.githubusercontent.com/71970948/94366208-2e559600-00df-11eb-94d5-31b7b7576412.jpg)
 
 </p>
 
